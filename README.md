@@ -4,7 +4,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/jGfKWJrykE)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=kacpertcho&label=Views&color=blue&style=plastic)
 
 
 
